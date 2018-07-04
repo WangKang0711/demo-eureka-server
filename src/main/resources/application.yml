@@ -5,7 +5,7 @@ spring:
     name: eureka-server
 eureka:
   instance:
-    hostname: localhost
+    hostname: peer1
     preferIpAddress: true
   client:
     serviceUrl:
@@ -20,7 +20,7 @@ spring:
     name: eureka-server
 eureka:
   instance:
-    hostname: localhost
+    hostname: peer1
     preferIpAddress: true
   client:
     serviceUrl:
@@ -35,7 +35,7 @@ spring:
     name: eureka-server
 eureka:
   instance:
-    hostname: localhost
+    hostname: peer1
     preferIpAddress: true
   client:
     serviceUrl:
